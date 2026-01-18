@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Govind R General Store</title>
+<title>R Govind General Store</title>
 
 <style>
 body{
@@ -94,7 +94,7 @@ function sendOrder(){
 <body>
 
 <header>
-<h1>Govind General Store</h1>
+<h1>R Govind General Store</h1>
 <p>सभी दैनिक जरूरतों का भरोसेमंद स्टोर</p>
 </header>
 
@@ -107,7 +107,7 @@ function sendOrder(){
 <section id="about">
 <h2>हमारे बारे में</h2>
 <p>
-Govind General Store पर आपको किराना, बिस्किट, नमकीन, ठंडे पेय,
+R Govind General Store पर आपको किराना, बिस्किट, नमकीन, ठंडे पेय,
 घरेलू सामान और रोज़मर्रा की सभी चीज़ें उचित दामों पर मिलती हैं।
 </p>
 </section>
@@ -135,7 +135,7 @@ src="https://www.google.com/maps?q=Chittasari+Sonkar+Basti+Jaunpur+UP+222001&z=1
 </section>
 
 <footer>
-<p>© 2026 Govind General Store</p>
+<p>© 2026 R Govind General Store</p>
 </footer>
 
 <a class="whatsapp" href="https://wa.me/917999009552" target="_blank">
