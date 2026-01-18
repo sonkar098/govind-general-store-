@@ -85,7 +85,7 @@ function sendOrder(){
     var order = document.getElementById("order").value;
 
     var message = "नया ऑर्डर%0Aनाम: " + name + "%0Aपता: " + address + "%0Aसामान: " + order;
-    window.open("https://wa.me/917999009552?text=" + message);
+    window.open("https://wa.me/918858384761?text=" + message);
 }
 </script>
 
@@ -125,7 +125,7 @@ R Govind General Store पर आपको किराना, बिस्क�
 <section id="contact">
 <h2>संपर्क करें</h2>
 <p><b>दुकान:</b> R Govind General Store</p>
-<p><b>फोन:</b> 7999009552</p>
+<p><b>फोन:</b> 8858384761</p>
 <p><b>समय:</b> सुबह 7:00 – रात 10:30</p>
 
 <h3>दुकान का स्थान</h3>
@@ -138,7 +138,7 @@ src="https://www.google.com/maps?q=Chittasari+Sonkar+Basti+Jaunpur+UP+222001&z=1
 <p>© 2026 R Govind General Store</p>
 </footer>
 
-<a class="whatsapp" href="https://wa.me/917999009552" target="_blank">
+<a class="whatsapp" href="https://wa.me/918858384761" target="_blank">
 WhatsApp
 </a>
 
